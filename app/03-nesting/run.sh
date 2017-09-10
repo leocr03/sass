@@ -2,4 +2,4 @@
 
 # please run first in your terminal: chmod +x run.sh
 
-sass --watch app/sass:public/stylesheets
+sass --watch app/sass:app/public/stylesheets
