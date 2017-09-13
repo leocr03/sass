@@ -1,4 +1,4 @@
-# SCSS
+# SASS Demo (SCSS)
 
 The material used for the study you can find in http://sass-lang.com/guide. 
 
